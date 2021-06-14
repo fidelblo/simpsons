@@ -1,0 +1,86 @@
+.bodyClass{
+  background-color: #2f9bd6;
+  background: linear-gradient(to bottom, #2f9bd6, skyblue)
+    
+}
+
+.container{
+  text-align: center;
+  
+}
+
+#quoteBox{
+   background: rgba(255,255,255, 0.1);
+  border-radius: 10px;
+  
+}
+
+img {
+  width: 300px;
+  height: 300px;
+  
+}
+ h1{
+  font-family: "Gloria Hallelujah";
+  font-size: 7em;
+  color: yellow;
+  padding: 10px;
+  text-shadow: -6px 4px black;
+    
+}
+
+p{
+  
+  font-family: "Gloria Hallelujah";
+  color: black;
+}
+
+#quote1{
+  font-size: 30px;
+}
+
+.photos{
+  width: 200px;
+  height: 200px;
+  text-align: left;
+  margin: 10px 10px 40px 10px;
+  color: black;
+  font-family: "Gloria Hallelujah";
+}
+
+#image1{
+  
+  width: 130px;
+  height: 200px;
+}
+
+
+#buttonOne{
+  background-color: skyblue;
+  border: 1px white solid;
+}
+
+#tweetButton{
+  background-color: skyblue;
+  border: 1px white solid;
+  
+}
+#buttonOne:hover{
+  background-color: white;
+  color: deepskyblue;
+  border: 1px deepskyblue solid;
+}
+
+#tweetButton:hover{
+  background-color: white;
+  color: deepskyblue;
+  border: 1px deepskyblue solid;
+ 
+}
+
+footer {
+  color: black;
+  font-family: "Gloria Hallelujah";
+  text-align: center;
+  font-size: 1em;
+}
